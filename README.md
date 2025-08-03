@@ -287,9 +287,9 @@ We provide scripts to reproduce the full results of the Mountain Car case study.
 
 ## Acknowledgements
 
-This project utilizes the Mountain Car environment from OpenAI Gym and incorporates a pre-trained Mountain Car vision model shared by Thomas Waite and Radoslav Ivanov. Additionally, the PRISM model checker (https://www.prismmodelchecker.org/) was utilized for formal verification tasks.
+This project utilizes the Mountain Car environment from OpenAI Gym and incorporates a pre-trained Mountain Car vision model shared by Thomas Waite and Radoslav Ivanov. Additionally, the PRISM model checker (https://www.prismmodelchecker.org/) was utilized for formal verification tasks. The authors thank Alessandro Abate for a discussion of Bayesian validation of Markov models. 
 
-This material is based on research sponsored by AFRL/RW under agreement number FA8651-24-1-0007. The U.S. Government is authorized to reproduce and distribute reprints for Governmental purposes notwithstanding any copyright notation thereon. The opinions, findings, views, or conclusions contained herein are those of the authors and should not be interpreted as representing the official policies or endorsements, either expressed or implied, of the DAF, AFRL, or the U.S. Government.
+This material is based on research sponsored by AFRL/RW under agreement number FA8651-24-1-0007 and the NSF CAREER award CNS-2440920. The U.S. Government is authorized to reproduce and distribute reprints for Governmental purposes notwithstanding any copyright notation thereon. The opinions, findings, views, or conclusions contained herein are those of the authors and should not be interpreted as representing the official policies or endorsements, either expressed or implied, of the DAF, AFRL, NSF, or the U.S. Government.
 
 ---
 
